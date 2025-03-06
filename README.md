@@ -75,10 +75,6 @@ Now, you are ready to use the software.
 
 <a id="demo"></a>
 
-## 🎮 Demo Video
-
-https://user-images.githubusercontent.com/69477761/130678138-dada31a8-4d76-4e23-8ad0-f47f38f40123.mp4
-
 <a id="references"></a>
 
 ## 🔬 References
